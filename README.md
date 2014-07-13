@@ -13,6 +13,26 @@ Dependencies:
  - http://starship.python.net/~skippy/win32/Downloads.html
  - https://pypi.python.org/pypi/Skype4Py/
 
+Use (Linux):
+
+```
+python ./CheckNet.py
+```
+
+or
+
+```
+chmod +x CheckNet.py
+CheckNet.py
+```
+
+Use (Windows):
+
+```
+python CheckNet.py
+```
+
+
 CheckNet (Español)
 ==================
 
@@ -27,3 +47,22 @@ Necesitas cambiar xxxx.xxx.xxx.xxx, yyy.yyy.yyy.yyy y zzz.zzz.zzz.zzz por la IP 
 Dependecias:
  - http://starship.python.net/~skippy/win32/Downloads.html
  - https://pypi.python.org/pypi/Skype4Py/
+
+Uso (Linux):
+
+```
+python ./CheckNet.py
+```
+
+o
+
+```
+chmod +x CheckNet.py
+CheckNet.py
+```
+
+Uso (Windows):
+
+```
+python CheckNet.py
+```
